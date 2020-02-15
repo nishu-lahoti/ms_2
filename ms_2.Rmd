@@ -1,0 +1,27 @@
+---
+title: "ms_2"
+author: "Nishu Lahoti"
+date: "2/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project 1
+### [Anan Hafez: Analysis of 3-Pointers](https://anan-hafez.shinyapps.io/NBA_App/)
+
+Pros: Anan has pulled in a tremendous amount of data from the NBA. Starting with the total number of threes and the shot-type percentage over the history of the game, it is easily to quickly visualize how the 3 has morphed over time. I particularly like his graphs about Team Usage, especially the drop-down that lets me examine how each NBA team has evolved with their three point game over time. Finally, the salary plot at the end is useful to see the financial impact of this change to the game.
+
+
+Cons: The webpage's flow is not entirely smooth. While the video on the first page is intriguing, it does less to bring the reader into the problem space than to simply entertain. On the "Growth of 3's" page, I noticed some errors in the "Season" slider, in that the numbers are not years but formatted as numbers with a comma for thousands. Also, the overall narrative seems a big fragmented - it would have been more useful if Anan had talked more about Team Usage first, then the growth of 3s, then why there were so many threes, and finally the effect on salaries.
+
+
+## Project 2
+### [Katherine Enright: 2019 Hong Kong Protests and Public Opinon](https://katherinemenright.shinyapps.io/HK-Protest-Opinion/)
+
+
+Pros: Right from the start, Katherine orients her presentation to provide salient data on government sentiment, public identity, and political inclination with respect to age. And she does through through three compelling visuals, such as the animated line graphs, the regression chart, and finally the histogram. Her narrative continues to be clear into the second and third tabs, in which she presents a global view of the program, different language breakdowns in a horizontal histogram, and total audience for the protests.
+
+Cons: Honestly, besides her site being very text heavy, I do not have much negative commentary on Katherine's project. It really cleanly defines the problem and even provides a full page on how she developed her models such that a layman in R like me can better understand her process. Overall, I am very impressed.
